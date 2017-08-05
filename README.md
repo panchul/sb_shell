@@ -10,7 +10,8 @@ The ```/doc``` folder of the ```workspace``` repo has the documentation.
 I will gradually migrate the notes I have to this repository, and they cover different shells. So far the shells covered:
 
 + bash
-     - coloring of the output on the terminal
+     - output_color_text.sh  -  coloring of the output on the terminal.
+     - looping_feeder.sh     -  a randomized simulated feeder template.
      
      
        
