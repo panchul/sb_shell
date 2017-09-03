@@ -3,6 +3,8 @@
 # found coloring at https://raymii.org/s/snippets/Bash_Bits_Add_Color_Output_To_Your_Scripts.html
 #
 
+# these are basically outputting the excape characters, like cout << "\033[1;31mbold red text\033[0m\n";
+
 black() { echo "$(tput setaf 0)$*$(tput setaf 9)"; }
 red() { echo "$(tput setaf 1)$*$(tput setaf 9)"; }
 green() { echo "$(tput setaf 2)$*$(tput setaf 9)"; }
