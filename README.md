@@ -10,8 +10,14 @@ The ```/doc``` folder of the ```workspace``` repo has the documentation.
 I will gradually migrate the notes I have to this repository, and they cover different shells. So far the shells covered:
 
 + bash
-     - output_color_text.sh  -  coloring of the output on the terminal.
+     - date_formatting.sh
+     - debugging_trace.sh
+     - local_variables.sh
      - looping_feeder.sh     -  a randomized simulated feeder template.
+     - output_color_text.sh  -  coloring of the output on the terminal.
+     - stopwatch.sh
+     - while_counter.sh
+     
      
      
        
