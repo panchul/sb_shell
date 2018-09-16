@@ -17,7 +17,7 @@ I will gradually migrate the notes I have to this repository, and they cover dif
      - output_color_text.sh  -  coloring of the output on the terminal.
      - stopwatch.sh
      - while_counter.sh
-     
+     - ... (there are more, just look at the folder) 
      
      
        
