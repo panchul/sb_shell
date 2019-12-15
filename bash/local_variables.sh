@@ -10,4 +10,3 @@ function hello {
 echo $HELLO
 hello
 echo $HELLO
-
